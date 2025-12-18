@@ -38,7 +38,7 @@ python-dotenv==1.2.1
 python-upgrade==10.3
 python-utils==3.9.1
 requests==2.32.5
-selenium~=4.38.0
+selenium~=4.39.0
 configparser~=7.2.0
 webdriver-manager~=4.0.2
 pytest~=9.0.1
