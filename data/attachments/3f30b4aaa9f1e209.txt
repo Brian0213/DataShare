@@ -1,0 +1,8 @@
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Driver [/home/runner/.wdm/drivers/chromedriver/linux64/143.0.7499.169/chromedriver-linux64/chromedriver] found in cache
+INFO     root:test_T04RegisterMember.py:21 ******** Verifying Login Test ********
+INFO     root:test_T04RegisterMember.py:22 ******** Call the Browse Configuration ********
+INFO     root:test_T04RegisterMember.py:24 ******** Launch the Application URL ********
+INFO     root:test_T04RegisterMember.py:26 ******** Define the LoginPage Driver ********

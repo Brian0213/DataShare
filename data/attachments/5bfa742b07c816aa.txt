@@ -1,0 +1,11 @@
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Driver [/home/runner/.wdm/drivers/chromedriver/linux64/143.0.7499.169/chromedriver-linux64/chromedriver] found in cache
+INFO     root:base_test.py:18 ****** Starting login ******
+INFO     root:base_test.py:25 ****** Login successful ******
+INFO     root:test_T11ExportBoth.py:18 ******** Verifying Login Test ********
+INFO     root:test_T11ExportBoth.py:19 ******** Define the ExportDataPage Driver ********
+INFO     root:test_T11ExportBoth.py:22 ********Change to Dark Mode ********
+INFO     root:test_T11ExportBoth.py:25 ********Scroll Until the the Export Button is Visible ********
+INFO     root:test_T11ExportBoth.py:28 ********Select the Export Data Button ********

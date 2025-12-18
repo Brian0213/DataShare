@@ -1,0 +1,16 @@
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Driver [/home/runner/.wdm/drivers/chromedriver/linux64/143.0.7499.169/chromedriver-linux64/chromedriver] found in cache
+INFO     root:base_test.py:18 ****** Starting login ******
+INFO     root:base_test.py:25 ****** Login successful ******
+INFO     root:test_T03MemberUpdate.py:22 ******** Verifying Login Test ********
+INFO     root:test_T03MemberUpdate.py:23 ******** Define the LoginPage Driver ********
+INFO     root:test_T03MemberUpdate.py:26 ********Verifying Dashboard Pick Lists********
+INFO     root:test_T03MemberUpdate.py:27 ******** Define the HomePage Driver********
+INFO     root:test_T03MemberUpdate.py:31 ******** Click the User's Menu********
+INFO     root:test_T03MemberUpdate.py:33 ******** Click the Manage Button********
+INFO     root:test_T03MemberUpdate.py:35 ******** Click the User's Edit Pen********
+INFO     root:test_T03MemberUpdate.py:37 ******** Switch to the Edit Member Window********
+INFO     root:test_T03MemberUpdate.py:39 ******** Edit Member's First Name********
+INFO     root:test_T03MemberUpdate.py:47 **********Institution Type Filter Test is Successful********

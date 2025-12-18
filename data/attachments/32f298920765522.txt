@@ -1,0 +1,20 @@
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Driver [/home/runner/.wdm/drivers/chromedriver/linux64/143.0.7499.169/chromedriver-linux64/chromedriver] found in cache
+INFO     root:base_test.py:18 ****** Starting login ******
+INFO     root:base_test.py:25 ****** Login successful ******
+INFO     root:test_T02InstituitionType.py:17 ******** Define the LoginPage Driver ********
+INFO     root:test_T02InstituitionType.py:19 ********Verifying Institution Type Filter Test ********
+INFO     root:test_T02InstituitionType.py:20 ******** Define the Job Driver********
+INFO     root:test_T02InstituitionType.py:24 ********Click the Institution Type Field********
+INFO     root:test_T02InstituitionType.py:26 ********Select the Institution Type's Pick Option********
+INFO     root:test_T02InstituitionType.py:28 ********Click the Student Population Field********
+INFO     root:test_T02InstituitionType.py:30 ********Select the Student Population's Pick Option********
+INFO     root:test_T02InstituitionType.py:32 ********Click the Delivery Method Field********
+INFO     root:test_T02InstituitionType.py:34 ********Select the Delivery Method's Pick Option********
+INFO     root:test_T02InstituitionType.py:36 ********Click the Level of Award Field********
+INFO     root:test_T02InstituitionType.py:38 ********Select the Level of Award's Pick Option********
+INFO     root:test_T02InstituitionType.py:40 ********Click the Apply Button********
+INFO     root:test_T02InstituitionType.py:42 ******** Close the Browser********
+INFO     root:test_T02InstituitionType.py:44 **********Institution Type Filter Test is Successful********

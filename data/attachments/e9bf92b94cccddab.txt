@@ -1,0 +1,18 @@
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Driver [/home/runner/.wdm/drivers/chromedriver/linux64/143.0.7499.169/chromedriver-linux64/chromedriver] found in cache
+INFO     root:base_test.py:18 ****** Starting login ******
+INFO     root:base_test.py:25 ****** Login successful ******
+INFO     root:test_T12HelpTour.py:16 ******** Verifying Login Test ********
+INFO     root:test_T12HelpTour.py:17 ******** Define the HomePage Driver ********
+INFO     root:test_T12HelpTour.py:20 ******** Click the Help Tour Button ********
+INFO     root:test_T12HelpTour.py:24 ********Switch to the Help Tour Feature********
+INFO     root:test_T12HelpTour.py:26 ********Click the Add Data Modal's Next button********
+INFO     root:test_T12HelpTour.py:28 ********Click Data View's Next button********
+INFO     root:test_T12HelpTour.py:30 ********Click Table or Chart View's Next button********
+INFO     root:test_T12HelpTour.py:32 ********Click Filter Data's Next button********
+INFO     root:test_T12HelpTour.py:34 ********Click Quick Actions' Next button********
+INFO     root:test_T12HelpTour.py:36 ********Click Select Institution's Finish button********
+INFO     root:test_T12HelpTour.py:38 ******** Close the Browser********
+INFO     root:test_T12HelpTour.py:40 **********Help Tour Test is Successful********
