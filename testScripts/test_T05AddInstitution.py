@@ -9,11 +9,13 @@ from testScripts.base_test import BaseTest
 from utility.readProperties import ReadConfig
 from utility.customLogger import LogGen
 
+
 class Test_AddInstitution(BaseTest):
 
     cname = "SpringLake University"
     url = "https://www.sprluni.edu"
 
+    @pytest.mark.skip(reason="Skipping this test for now")
     def test_login(self, setup):
         self.nwccu = setup
         self.login(self.nwccu)

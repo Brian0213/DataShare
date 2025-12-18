@@ -35,8 +35,14 @@ class LoginPage:
     def regLastName(self, lname):
         WebDriverWait(self.nwccu, 10).until(EC.element_to_be_clickable((By.XPATH, "//input[@placeholder='Last Name']"))).send_keys(lname)
 
-    def regRole(self, role):
-        WebDriverWait(self.nwccu, 10).until(EC.element_to_be_clickable((By.XPATH, "//input[@placeholder='Role']"))).send_keys(role)
+    def regRole(self):
+        WebDriverWait(self.nwccu, 10).until(EC.element_to_be_clickable((By.XPATH, "//select[@x-model='role']"))).click()
+
+    def regRoleAdmin(self):
+        WebDriverWait(self.nwccu, 10).until(EC.element_to_be_clickable((By.XPATH, "//select[@x-model='role']/option[@value='admin']"))).click()
+
+    def regRoleUser(self):
+        WebDriverWait(self.nwccu, 10).until(EC.element_to_be_clickable((By.XPATH, "//select[@x-model='role']/option[@value='user']"))).click()
 
     def regEmailAddress(self, email):
         WebDriverWait(self.nwccu, 10).until(EC.element_to_be_clickable((By.XPATH, "//input[@placeholder='Email Address']"))).send_keys(email)
@@ -105,10 +111,10 @@ class LoginPage:
         WebDriverWait(self.nwccu, 10).until(EC.element_to_be_clickable((By.XPATH, "//select[@x-model='institution_id']/option[@value='17']"))).click()
 
     def confirmRegistration(self):
-        WebDriverWait(self.nwccu, 10).until(EC.element_to_be_clickable((By.XPATH, "//button[@class='px-4 py-3 bg-cyan-900 text-white text-base font-medium rounded-xl hover:bg-cyan-800']"))).click()
+        WebDriverWait(self.nwccu, 10).until(EC.element_to_be_clickable((By.XPATH, "//button[@class='px-4 py-3 bg-cyan-900 dark:bg-cyan-950 text-white text-base font-medium rounded-xl hover:bg-cyan-800 dark:hover:bg-cyan-900']"))).click()
 
     def userMenu(self):
-        WebDriverWait(self.nwccu, 10).until(EC.element_to_be_clickable((By.XPATH, "//span[@class='text-sm font-medium text-white']"))).click()
+        WebDriverWait(self.nwccu, 10).until(EC.element_to_be_clickable((By.XPATH, "//span[@class='text-sm font-medium text-slate-700 dark:text-slate-300']"))).click()
 
     def userManage(self):
         WebDriverWait(self.nwccu, 10).until(EC.element_to_be_clickable((By.XPATH, "//a[normalize-space()='Manage']"))).click()
@@ -117,7 +123,7 @@ class LoginPage:
         WebDriverWait(self.nwccu, 10).until(EC.element_to_be_clickable((By.XPATH, "//button[normalize-space()='Sign Out']"))).click()
 
     def memberEdit(self):
-        WebDriverWait(self.nwccu, 10).until(EC.element_to_be_clickable((By.XPATH, "//body/main/div/div/div[3]/table/tbody/tr[2]/td[8]/button[1]"))).click()
+        WebDriverWait(self.nwccu, 10).until(EC.element_to_be_clickable((By.XPATH, "//body/main/div/div/div/div/div[2]/div/div[2]/table/tbody/tr/td[7]/button[1]"))).click()
 
     def memberDelete(self):
         WebDriverWait(self.nwccu, 10).until(EC.element_to_be_clickable((By.XPATH, "//body/main/div/div/div[3]/table/tbody/tr[1]/td[8]/button[2]"))).click()

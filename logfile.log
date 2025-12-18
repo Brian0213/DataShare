@@ -5214,3 +5214,447 @@
 2025-12-16 13:37:58,948 :INFO :******** Login Test is successful ********
 2025-12-16 13:37:58,959 :INFO :******** Assert Page Title ********
 2025-12-16 13:37:59,054 :INFO :Login Test is successful and assertion passed
+2025-12-18 07:03:35,448 :INFO :====== WebDriver manager ======
+2025-12-18 07:03:41,107 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 07:03:41,513 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 07:03:41,848 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 07:03:42,625 :INFO :WebDriver version 143.0.7499.146 selected
+2025-12-18 07:03:42,630 :INFO :Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.146/win32/chromedriver-win32.zip
+2025-12-18 07:03:42,630 :INFO :About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.146/win32/chromedriver-win32.zip
+2025-12-18 07:03:43,054 :INFO :Driver downloading response is 200
+2025-12-18 07:03:43,521 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 07:03:44,179 :INFO :Driver has been saved in cache [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.146]
+2025-12-18 07:03:45,844 :INFO :****** Starting login ******
+2025-12-18 07:03:51,211 :INFO :****** Login successful ******
+2025-12-18 07:03:51,211 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 07:03:51,211 :INFO :********Verifying Institution Type Filter Test ********
+2025-12-18 07:03:51,211 :INFO :******** Define the Job Driver********
+2025-12-18 07:03:51,213 :INFO :********Click the Institution Type Field********
+2025-12-18 10:15:46,088 :INFO :====== WebDriver manager ======
+2025-12-18 10:15:54,331 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 10:15:55,090 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 10:15:55,433 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 10:15:57,308 :INFO :****** Starting login ******
+2025-12-18 10:16:04,262 :INFO :****** Login successful ******
+2025-12-18 10:16:04,265 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 10:16:04,267 :INFO :********Verifying Institution Type Filter Test ********
+2025-12-18 10:16:04,268 :INFO :******** Define the Job Driver********
+2025-12-18 10:16:04,271 :INFO :********Click the Institution Type Field********
+2025-12-18 10:16:04,475 :INFO :********Select the Institution Type's Pick Option********
+2025-12-18 10:16:04,622 :INFO :********Click the Student Population Field********
+2025-12-18 10:16:04,836 :INFO :********Select the Student Population's Pick Option********
+2025-12-18 10:16:04,984 :INFO :********Click the Delivery Method Field********
+2025-12-18 10:16:05,162 :INFO :********Select the Delivery Method's Pick Option********
+2025-12-18 10:16:05,309 :INFO :********Click the Level of Award Field********
+2025-12-18 10:16:05,519 :INFO :********Select the Level of Award's Pick Option********
+2025-12-18 10:16:05,668 :INFO :********Click the Apply Button********
+2025-12-18 10:18:31,696 :INFO :====== WebDriver manager ======
+2025-12-18 10:18:41,062 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 10:18:41,517 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 10:18:41,875 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 10:18:43,550 :INFO :****** Starting login ******
+2025-12-18 10:18:49,282 :INFO :****** Login successful ******
+2025-12-18 10:18:49,282 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 10:18:49,282 :INFO :********Verifying Institution Type Filter Test ********
+2025-12-18 10:18:49,283 :INFO :******** Define the Job Driver********
+2025-12-18 10:18:49,284 :INFO :********Click the Institution Type Field********
+2025-12-18 10:18:49,518 :INFO :********Select the Institution Type's Pick Option********
+2025-12-18 10:18:49,740 :INFO :********Click the Student Population Field********
+2025-12-18 10:18:49,984 :INFO :********Select the Student Population's Pick Option********
+2025-12-18 10:18:50,135 :INFO :********Click the Delivery Method Field********
+2025-12-18 10:18:50,375 :INFO :********Select the Delivery Method's Pick Option********
+2025-12-18 10:18:50,548 :INFO :********Click the Level of Award Field********
+2025-12-18 10:18:50,836 :INFO :********Select the Level of Award's Pick Option********
+2025-12-18 10:18:50,987 :INFO :********Click the Apply Button********
+2025-12-18 10:20:50,322 :INFO :====== WebDriver manager ======
+2025-12-18 10:20:59,985 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 10:21:15,517 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 10:21:15,909 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 10:21:17,825 :INFO :****** Starting login ******
+2025-12-18 10:21:23,688 :INFO :****** Login successful ******
+2025-12-18 10:21:23,688 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 10:21:23,689 :INFO :********Verifying Institution Type Filter Test ********
+2025-12-18 10:21:23,689 :INFO :******** Define the Job Driver********
+2025-12-18 10:21:23,692 :INFO :********Click the Institution Type Field********
+2025-12-18 10:21:23,958 :INFO :********Select the Institution Type's Pick Option********
+2025-12-18 10:21:24,108 :INFO :********Click the Student Population Field********
+2025-12-18 10:21:24,355 :INFO :********Select the Student Population's Pick Option********
+2025-12-18 10:21:24,524 :INFO :********Click the Delivery Method Field********
+2025-12-18 10:21:24,779 :INFO :********Select the Delivery Method's Pick Option********
+2025-12-18 10:21:24,917 :INFO :********Click the Level of Award Field********
+2025-12-18 10:21:25,186 :INFO :********Select the Level of Award's Pick Option********
+2025-12-18 10:21:25,353 :INFO :********Click the Apply Button********
+2025-12-18 10:21:25,354 :INFO :******** Close the Browser********
+2025-12-18 10:21:25,564 :INFO :**********Institution Type Filter Test is Successful********
+2025-12-18 10:24:19,862 :INFO :====== WebDriver manager ======
+2025-12-18 10:24:29,446 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 10:24:34,167 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 10:24:34,951 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 10:24:36,745 :INFO :****** Starting login ******
+2025-12-18 10:24:42,381 :INFO :****** Login successful ******
+2025-12-18 10:24:42,381 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 10:24:42,381 :INFO :********Verifying Institution Type Filter Test ********
+2025-12-18 10:24:42,381 :INFO :******** Define the Job Driver********
+2025-12-18 10:24:42,383 :INFO :********Click the Institution Type Field********
+2025-12-18 10:24:42,588 :INFO :********Select the Institution Type's Pick Option********
+2025-12-18 10:24:42,779 :INFO :********Click the Student Population Field********
+2025-12-18 10:24:42,992 :INFO :********Select the Student Population's Pick Option********
+2025-12-18 10:24:43,131 :INFO :********Click the Delivery Method Field********
+2025-12-18 10:24:43,386 :INFO :********Select the Delivery Method's Pick Option********
+2025-12-18 10:24:43,545 :INFO :********Click the Level of Award Field********
+2025-12-18 10:24:43,795 :INFO :********Select the Level of Award's Pick Option********
+2025-12-18 10:24:43,989 :INFO :********Click the Apply Button********
+2025-12-18 10:24:43,990 :INFO :******** Close the Browser********
+2025-12-18 10:24:44,171 :INFO :**********Institution Type Filter Test is Successful********
+2025-12-18 10:28:52,887 :INFO :====== WebDriver manager ======
+2025-12-18 10:29:01,077 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 10:29:03,708 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 10:29:04,042 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 10:29:05,677 :INFO :****** Starting login ******
+2025-12-18 10:29:11,393 :INFO :****** Login successful ******
+2025-12-18 10:29:11,393 :INFO :******** Verifying Login Test ********
+2025-12-18 10:29:11,393 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 10:29:11,393 :INFO :********Verifying Dashboard Pick Lists********
+2025-12-18 10:29:11,393 :INFO :******** Define the HomePage Driver********
+2025-12-18 10:29:11,397 :INFO :******** Click the User's Menu********
+2025-12-18 10:53:35,714 :INFO :====== WebDriver manager ======
+2025-12-18 10:53:45,107 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 10:53:45,700 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 10:53:46,032 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 10:53:47,690 :INFO :****** Starting login ******
+2025-12-18 10:53:53,422 :INFO :****** Login successful ******
+2025-12-18 10:53:53,422 :INFO :******** Verifying Login Test ********
+2025-12-18 10:53:53,422 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 10:53:53,422 :INFO :********Verifying Dashboard Pick Lists********
+2025-12-18 10:53:53,422 :INFO :******** Define the HomePage Driver********
+2025-12-18 10:53:53,426 :INFO :******** Click the User's Menu********
+2025-12-18 11:03:11,717 :INFO :====== WebDriver manager ======
+2025-12-18 11:03:20,314 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 11:03:38,801 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 11:03:39,488 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 11:03:41,052 :INFO :****** Starting login ******
+2025-12-18 11:03:46,446 :INFO :****** Login successful ******
+2025-12-18 11:03:46,446 :INFO :******** Verifying Login Test ********
+2025-12-18 11:03:46,446 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 11:03:46,446 :INFO :********Verifying Dashboard Pick Lists********
+2025-12-18 11:03:46,446 :INFO :******** Define the HomePage Driver********
+2025-12-18 11:03:46,449 :INFO :******** Click the User's Menu********
+2025-12-18 11:03:46,671 :INFO :******** Click the Manage Button********
+2025-12-18 11:03:46,876 :INFO :******** Click the User's Edit Pen********
+2025-12-18 11:07:44,879 :INFO :====== WebDriver manager ======
+2025-12-18 11:07:53,516 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 11:07:53,917 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 11:07:54,206 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 11:07:55,715 :INFO :****** Starting login ******
+2025-12-18 11:07:59,685 :INFO :****** Login successful ******
+2025-12-18 11:07:59,685 :INFO :******** Verifying Login Test ********
+2025-12-18 11:07:59,685 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 11:07:59,685 :INFO :********Verifying Dashboard Pick Lists********
+2025-12-18 11:07:59,685 :INFO :******** Define the HomePage Driver********
+2025-12-18 11:07:59,686 :INFO :******** Click the User's Menu********
+2025-12-18 11:08:00,968 :INFO :******** Click the Manage Button********
+2025-12-18 11:08:01,555 :INFO :******** Click the User's Edit Pen********
+2025-12-18 11:08:01,834 :INFO :******** Switch to the Edit Member Window********
+2025-12-18 11:08:04,838 :INFO :******** Edit Member's First Name********
+2025-12-18 11:13:33,898 :INFO :====== WebDriver manager ======
+2025-12-18 11:13:42,966 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 11:13:43,284 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 11:13:43,585 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 11:13:45,135 :INFO :****** Starting login ******
+2025-12-18 11:13:50,360 :INFO :****** Login successful ******
+2025-12-18 11:13:50,360 :INFO :******** Verifying Login Test ********
+2025-12-18 11:13:50,360 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 11:13:50,360 :INFO :********Verifying Dashboard Pick Lists********
+2025-12-18 11:13:50,360 :INFO :******** Define the HomePage Driver********
+2025-12-18 11:13:50,363 :INFO :******** Click the User's Menu********
+2025-12-18 11:13:50,494 :INFO :******** Click the Manage Button********
+2025-12-18 11:13:51,083 :INFO :******** Click the User's Edit Pen********
+2025-12-18 11:13:51,374 :INFO :******** Switch to the Edit Member Window********
+2025-12-18 11:13:54,378 :INFO :******** Edit Member's First Name********
+2025-12-18 13:01:55,331 :INFO :====== WebDriver manager ======
+2025-12-18 13:02:05,167 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:02:05,963 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:02:06,487 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 13:02:08,367 :INFO :****** Starting login ******
+2025-12-18 13:02:14,382 :INFO :****** Login successful ******
+2025-12-18 13:02:14,383 :INFO :******** Verifying Login Test ********
+2025-12-18 13:02:14,383 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 13:02:14,383 :INFO :********Verifying Dashboard Pick Lists********
+2025-12-18 13:02:14,383 :INFO :******** Define the HomePage Driver********
+2025-12-18 13:02:14,389 :INFO :******** Click the User's Menu********
+2025-12-18 13:02:14,713 :INFO :******** Click the Manage Button********
+2025-12-18 13:02:14,984 :INFO :******** Click the User's Edit Pen********
+2025-12-18 13:02:15,509 :INFO :******** Switch to the Edit Member Window********
+2025-12-18 13:02:18,520 :INFO :******** Edit Member's First Name********
+2025-12-18 13:03:42,607 :INFO :====== WebDriver manager ======
+2025-12-18 13:03:52,069 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:04:01,195 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:04:01,773 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 13:04:03,461 :INFO :****** Starting login ******
+2025-12-18 13:04:09,785 :INFO :****** Login successful ******
+2025-12-18 13:04:09,785 :INFO :******** Verifying Login Test ********
+2025-12-18 13:04:09,786 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 13:04:09,786 :INFO :********Verifying Dashboard Pick Lists********
+2025-12-18 13:04:09,786 :INFO :******** Define the HomePage Driver********
+2025-12-18 13:04:09,790 :INFO :******** Click the User's Menu********
+2025-12-18 13:04:10,046 :INFO :******** Click the Manage Button********
+2025-12-18 13:04:10,922 :INFO :******** Click the User's Edit Pen********
+2025-12-18 13:04:11,391 :INFO :******** Switch to the Edit Member Window********
+2025-12-18 13:04:14,401 :INFO :******** Edit Member's First Name********
+2025-12-18 13:05:36,337 :INFO :====== WebDriver manager ======
+2025-12-18 13:05:45,869 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:05:46,363 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:07:01,197 :INFO :====== WebDriver manager ======
+2025-12-18 13:07:10,656 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:07:11,162 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:07:11,654 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 13:07:13,396 :INFO :****** Starting login ******
+2025-12-18 13:07:19,178 :INFO :****** Login successful ******
+2025-12-18 13:07:19,179 :INFO :******** Verifying Login Test ********
+2025-12-18 13:07:19,179 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 13:07:19,179 :INFO :********Verifying Dashboard Pick Lists********
+2025-12-18 13:07:19,179 :INFO :******** Define the HomePage Driver********
+2025-12-18 13:07:19,184 :INFO :******** Click the User's Menu********
+2025-12-18 13:07:19,425 :INFO :******** Click the Manage Button********
+2025-12-18 13:07:20,190 :INFO :******** Click the User's Edit Pen********
+2025-12-18 13:07:20,616 :INFO :******** Switch to the Edit Member Window********
+2025-12-18 13:07:23,625 :INFO :******** Edit Member's First Name********
+2025-12-18 13:08:42,437 :INFO :====== WebDriver manager ======
+2025-12-18 13:08:52,305 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:08:56,776 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:08:57,113 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.146\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 13:08:59,024 :INFO :****** Starting login ******
+2025-12-18 13:09:05,704 :INFO :****** Login successful ******
+2025-12-18 13:09:05,704 :INFO :******** Verifying Login Test ********
+2025-12-18 13:09:05,704 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 13:09:05,704 :INFO :********Verifying Dashboard Pick Lists********
+2025-12-18 13:09:05,704 :INFO :******** Define the HomePage Driver********
+2025-12-18 13:09:05,707 :INFO :******** Click the User's Menu********
+2025-12-18 13:09:06,046 :INFO :******** Click the Manage Button********
+2025-12-18 13:09:06,876 :INFO :******** Click the User's Edit Pen********
+2025-12-18 13:09:07,343 :INFO :******** Switch to the Edit Member Window********
+2025-12-18 13:09:10,351 :INFO :******** Edit Member's First Name********
+2025-12-18 13:09:12,303 :INFO :**********Institution Type Filter Test is Successful********
+2025-12-18 13:10:26,856 :INFO :====== WebDriver manager ======
+2025-12-18 13:10:35,966 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:10:36,584 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:10:37,136 :INFO :There is no [win64] chromedriver "143.0.7499.169" for browser google-chrome "143.0.7499" in cache
+2025-12-18 13:10:37,137 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:30:48,232 :INFO :====== WebDriver manager ======
+2025-12-18 13:30:53,215 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:30:53,697 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:30:54,105 :INFO :There is no [win64] chromedriver "143.0.7499.169" for browser google-chrome "143.0.7499" in cache
+2025-12-18 13:30:54,105 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:30:54,931 :INFO :WebDriver version 143.0.7499.169 selected
+2025-12-18 13:30:54,935 :INFO :Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2025-12-18 13:30:54,935 :INFO :About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2025-12-18 13:30:55,360 :INFO :Driver downloading response is 200
+2025-12-18 13:30:55,843 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:30:56,484 :INFO :Driver has been saved in cache [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.169]
+2025-12-18 13:30:58,531 :INFO :****** Starting login ******
+2025-12-18 13:31:05,478 :INFO :****** Login successful ******
+2025-12-18 13:31:05,478 :INFO :******** Verifying Login Test ********
+2025-12-18 13:31:05,479 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 13:31:05,479 :INFO :********Verifying Dashboard Pick Lists********
+2025-12-18 13:31:05,479 :INFO :******** Define the HomePage Driver********
+2025-12-18 13:31:05,483 :INFO :******** Click the User's Menu********
+2025-12-18 13:31:05,703 :INFO :******** Click the Manage Button********
+2025-12-18 13:31:05,964 :INFO :******** Click the User's Edit Pen********
+2025-12-18 13:31:06,365 :INFO :******** Switch to the Edit Member Window********
+2025-12-18 13:31:06,372 :INFO :******** Edit Member's First Name********
+2025-12-18 13:31:08,605 :INFO :**********Institution Type Filter Test is Successful********
+2025-12-18 13:32:48,728 :INFO :====== WebDriver manager ======
+2025-12-18 13:32:58,113 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:32:58,723 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:32:59,261 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 13:33:00,934 :INFO :****** Starting login ******
+2025-12-18 13:33:07,205 :INFO :****** Login successful ******
+2025-12-18 13:33:07,205 :INFO :******** Verifying Login Test ********
+2025-12-18 13:33:07,205 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 13:33:07,205 :INFO :********Verifying Dashboard Pick Lists********
+2025-12-18 13:33:07,205 :INFO :******** Define the HomePage Driver********
+2025-12-18 13:33:07,216 :INFO :******** Click the User's Menu********
+2025-12-18 13:33:07,480 :INFO :******** Click the Manage Button********
+2025-12-18 13:33:08,232 :INFO :******** Click the User's Edit Pen********
+2025-12-18 13:33:08,742 :INFO :******** Switch to the Edit Member Window********
+2025-12-18 13:33:08,748 :INFO :******** Edit Member's First Name********
+2025-12-18 13:33:11,248 :INFO :**********Institution Type Filter Test is Successful********
+2025-12-18 13:34:26,550 :INFO :====== WebDriver manager ======
+2025-12-18 13:34:31,021 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:34:56,482 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:34:56,877 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 13:34:58,619 :INFO :******** Verifying Login Test ********
+2025-12-18 13:34:58,619 :INFO :******** Call the Browse Configuration ********
+2025-12-18 13:34:58,622 :INFO :******** Launch the Application URL ********
+2025-12-18 13:35:02,634 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 13:40:18,316 :INFO :====== WebDriver manager ======
+2025-12-18 13:40:26,031 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:41:12,606 :INFO :====== WebDriver manager ======
+2025-12-18 13:41:22,160 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:41:22,760 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:41:23,307 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 13:41:25,080 :INFO :******** Verifying Login Test ********
+2025-12-18 13:41:25,081 :INFO :******** Call the Browse Configuration ********
+2025-12-18 13:41:25,084 :INFO :******** Launch the Application URL ********
+2025-12-18 13:41:28,967 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 13:46:27,835 :INFO :====== WebDriver manager ======
+2025-12-18 13:46:37,240 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:46:58,018 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:46:58,561 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 13:47:00,184 :INFO :******** Verifying Login Test ********
+2025-12-18 13:47:00,184 :INFO :******** Call the Browse Configuration ********
+2025-12-18 13:47:00,187 :INFO :******** Launch the Application URL ********
+2025-12-18 13:47:03,989 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 13:49:56,417 :INFO :====== WebDriver manager ======
+2025-12-18 13:50:04,746 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:50:11,055 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:50:11,518 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 13:50:13,204 :INFO :******** Verifying Login Test ********
+2025-12-18 13:50:13,204 :INFO :******** Call the Browse Configuration ********
+2025-12-18 13:50:13,206 :INFO :******** Launch the Application URL ********
+2025-12-18 13:50:17,104 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 13:51:25,959 :INFO :====== WebDriver manager ======
+2025-12-18 13:51:35,807 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:51:36,399 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 13:51:36,907 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 13:51:38,685 :INFO :******** Verifying Login Test ********
+2025-12-18 13:51:38,685 :INFO :******** Call the Browse Configuration ********
+2025-12-18 13:51:38,688 :INFO :******** Launch the Application URL ********
+2025-12-18 13:51:42,409 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 14:12:55,445 :INFO :====== WebDriver manager ======
+2025-12-18 14:13:05,236 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 14:13:05,903 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 14:13:06,335 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 14:13:08,164 :INFO :******** Verifying Login Test ********
+2025-12-18 14:13:08,164 :INFO :******** Call the Browse Configuration ********
+2025-12-18 14:13:08,167 :INFO :******** Launch the Application URL ********
+2025-12-18 14:13:12,020 :INFO :******** Define the LoginPage Driver ********
+2025-12-18 14:18:09,148 :INFO :====== WebDriver manager ======
+2025-12-18 14:18:18,809 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 14:18:19,369 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 14:18:19,802 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 14:18:21,666 :INFO :****** Starting login ******
+2025-12-18 14:18:28,038 :INFO :****** Login successful ******
+2025-12-18 14:18:28,038 :INFO :******** Verifying Login Test ********
+2025-12-18 14:18:28,038 :INFO :******** Define the ExportDataPage Driver ********
+2025-12-18 14:18:28,038 :INFO :********Change to Dark Mode ********
+2025-12-18 14:18:28,405 :INFO :********Scroll Until the the Export Button is Visible ********
+2025-12-18 14:18:28,449 :INFO :********Select the Export Data Button ********
+2025-12-18 14:18:29,170 :INFO :********Select the Institutions Tab ********
+2025-12-18 14:18:29,403 :INFO :********Select the All Institutions Select All Button ********
+2025-12-18 14:18:29,626 :INFO :********Select the Institutions Data Points Tab ********
+2025-12-18 14:18:29,869 :INFO :********Select the Data Points Select All Button ********
+2025-12-18 14:18:30,098 :INFO :********Scroll Until the Download Excel Button is Visible ********
+2025-12-18 14:18:30,116 :INFO :********Select the Download Excel File Button ********
+2025-12-18 14:19:54,276 :INFO :====== WebDriver manager ======
+2025-12-18 14:20:32,779 :INFO :====== WebDriver manager ======
+2025-12-18 14:20:42,238 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 14:20:42,665 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 14:20:43,079 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 14:20:44,729 :INFO :****** Starting login ******
+2025-12-18 14:20:50,872 :INFO :****** Login successful ******
+2025-12-18 14:20:50,872 :INFO :******** Verifying Login Test ********
+2025-12-18 14:20:50,872 :INFO :******** Define the ExportDataPage Driver ********
+2025-12-18 14:20:50,872 :INFO :********Change to Dark Mode ********
+2025-12-18 14:20:51,162 :INFO :********Scroll Until the the Export Button is Visible ********
+2025-12-18 14:20:51,191 :INFO :********Select the Export Data Button ********
+2025-12-18 14:20:51,791 :INFO :********Select the Programs Tab ********
+2025-12-18 14:20:52,024 :INFO :********Select all the Program Data ********
+2025-12-18 14:20:52,270 :INFO :********Select the Programs Metrics Tab ********
+2025-12-18 14:20:52,481 :INFO :********Select all the Program Metrics Data ********
+2025-12-18 14:20:52,686 :INFO :********Select the Programs Demographics Tab ********
+2025-12-18 14:20:52,913 :INFO :********Select all the Program Demographics Data ********
+2025-12-18 14:20:53,110 :INFO :********Scroll Until the the Export Button is Visible ********
+2025-12-18 14:20:53,128 :INFO :********Select the Download Excel File Button ********
+2025-12-18 14:20:53,358 :INFO :******** Close the Browser********
+2025-12-18 14:20:53,529 :INFO :**********Institution Type Filter Test is Successful********
+2025-12-18 14:22:36,904 :INFO :====== WebDriver manager ======
+2025-12-18 14:22:46,445 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 14:23:15,202 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 14:23:15,642 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 14:23:17,350 :INFO :****** Starting login ******
+2025-12-18 14:23:24,013 :INFO :****** Login successful ******
+2025-12-18 14:23:24,013 :INFO :******** Verifying Login Test ********
+2025-12-18 14:23:24,013 :INFO :******** Define the HomePage Driver ********
+2025-12-18 14:23:24,014 :INFO :******** Click the Help Tour Button ********
+2025-12-18 14:23:24,261 :INFO :********Switch to the Help Tour Feature********
+2025-12-18 14:23:24,268 :INFO :********Click the Add Data Modal's Next button********
+2025-12-18 14:23:24,478 :INFO :********Click Data View's Next button********
+2025-12-18 14:23:24,650 :INFO :********Click Table or Chart View's Next button********
+2025-12-18 14:23:24,815 :INFO :********Click Filter Data's Next button********
+2025-12-18 14:23:25,010 :INFO :********Click Quick Actions' Next button********
+2025-12-18 14:23:25,245 :INFO :********Click Select Institution's Finish button********
+2025-12-18 14:23:25,460 :INFO :******** Close the Browser********
+2025-12-18 14:23:25,680 :INFO :**********Help Tour Test is Successful********
+2025-12-18 14:25:46,335 :INFO :====== WebDriver manager ======
+2025-12-18 14:25:55,878 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 14:25:56,347 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 14:25:56,760 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 14:25:58,265 :INFO :****** Starting login ******
+2025-12-18 14:26:04,764 :INFO :****** Login successful ******
+2025-12-18 14:26:04,765 :INFO :******** Verifying Login Test ********
+2025-12-18 14:26:04,765 :INFO :******** Define the HomePage Driver ********
+2025-12-18 14:26:04,765 :INFO :******** Click the Help Tour Button ********
+2025-12-18 14:26:05,048 :INFO :********Switch to the Help Tour Feature********
+2025-12-18 14:26:05,054 :INFO :********Click the Add Data Modal's Next button********
+2025-12-18 14:26:05,319 :INFO :********Click Data View's Next button********
+2025-12-18 14:26:05,530 :INFO :********Click Table or Chart View's Next button********
+2025-12-18 14:26:06,051 :INFO :********Click Filter Data's Next button********
+2025-12-18 14:26:06,294 :INFO :********Click Quick Actions' Next button********
+2025-12-18 14:26:06,511 :INFO :********Click Select Institution's Finish button********
+2025-12-18 14:26:06,768 :INFO :******** Close the Browser********
+2025-12-18 14:26:06,977 :INFO :**********Help Tour Test is Successful********
+2025-12-18 14:31:37,304 :INFO :====== WebDriver manager ======
+2025-12-18 14:31:45,638 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 14:32:08,149 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 14:32:08,545 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 14:32:10,122 :INFO :****** Starting login ******
+2025-12-18 14:32:16,315 :INFO :****** Login successful ******
+2025-12-18 14:32:16,316 :INFO :******** Verifying Login Test ********
+2025-12-18 14:32:16,316 :INFO :******** Define the HomePage Driver ********
+2025-12-18 14:32:16,316 :INFO :******** Click the Help Tour Button ********
+2025-12-18 14:32:16,603 :INFO :********Switch to the Help Tour Feature********
+2025-12-18 14:32:16,615 :INFO :********Click the Add Data Modal's Next button********
+2025-12-18 14:32:16,824 :INFO :********Click Data View's Next button********
+2025-12-18 14:32:17,065 :INFO :********Click Table or Chart View's Next button********
+2025-12-18 14:32:17,278 :INFO :********Click Filter Data's Next button********
+2025-12-18 14:32:17,454 :INFO :********Click Quick Actions' Next button********
+2025-12-18 14:32:17,633 :INFO :********Click Select Institution's Finish button********
+2025-12-18 14:32:17,935 :INFO :******** Close the Browser********
+2025-12-18 14:32:18,129 :INFO :**********Help Tour Test is Successful********
+2025-12-18 14:39:19,717 :INFO :====== WebDriver manager ======
+2025-12-18 14:39:29,081 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 14:39:29,638 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 14:39:30,246 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 14:39:34,760 :INFO :****** Starting login ******
+2025-12-18 14:39:41,633 :INFO :****** Login successful ******
+2025-12-18 14:39:41,633 :INFO :******** Verifying Login Test ********
+2025-12-18 14:39:41,634 :INFO :******** Define the HomePage Driver ********
+2025-12-18 14:39:41,634 :INFO :******** Click the Help Tour Button ********
+2025-12-18 14:39:41,854 :INFO :********Switch to the Help Tour Feature********
+2025-12-18 14:39:41,865 :INFO :********Click the Add Data Modal's Next button********
+2025-12-18 14:39:42,098 :INFO :********Click Data View's Next button********
+2025-12-18 14:39:42,254 :INFO :********Click Table or Chart View's Next button********
+2025-12-18 14:39:42,448 :INFO :********Click Filter Data's Next button********
+2025-12-18 14:39:42,646 :INFO :********Click Quick Actions' Next button********
+2025-12-18 14:39:42,844 :INFO :********Click Select Institution's Finish button********
+2025-12-18 14:39:43,034 :INFO :******** Close the Browser********
+2025-12-18 14:39:43,200 :INFO :**********Help Tour Test is Successful********
+2025-12-18 14:41:16,169 :INFO :====== WebDriver manager ======
+2025-12-18 14:41:24,575 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 14:41:31,854 :INFO :Get LATEST chromedriver version for google-chrome
+2025-12-18 14:41:32,504 :INFO :Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.169\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-18 14:41:34,137 :INFO :****** Starting login ******
+2025-12-18 14:41:41,102 :INFO :****** Login successful ******
+2025-12-18 14:41:41,103 :INFO :******** Verifying Login Test ********
+2025-12-18 14:41:41,103 :INFO :******** Define the HomePage Driver ********
+2025-12-18 14:41:41,103 :INFO :******** Click the Help Tour Button ********
+2025-12-18 14:41:41,389 :INFO :********Switch to the Help Tour Feature********
+2025-12-18 14:41:41,397 :INFO :********Click the Add Data Modal's Next button********
+2025-12-18 14:41:41,637 :INFO :********Click Data View's Next button********
+2025-12-18 14:41:41,800 :INFO :********Click Table or Chart View's Next button********
+2025-12-18 14:41:42,048 :INFO :********Click Filter Data's Next button********
+2025-12-18 14:41:42,221 :INFO :********Click Quick Actions' Next button********
+2025-12-18 14:41:42,408 :INFO :********Click Select Institution's Finish button********
+2025-12-18 14:41:42,616 :INFO :******** Close the Browser********
+2025-12-18 14:41:42,928 :INFO :**********Help Tour Test is Successful********

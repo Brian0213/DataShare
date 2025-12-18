@@ -43,4 +43,7 @@ class Test_ExportProgramData(BaseTest):
         self.nwccu.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         self.logger.info("********Select the Download Excel File Button ********")
         self.edp.downloadExcelFile()
+        self.logger.info("******** Close the Browser********")
+        self.nwccu.close()
+        self.logger.info("**********Institution Type Filter Test is Successful********")
 

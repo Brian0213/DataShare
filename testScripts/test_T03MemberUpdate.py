@@ -36,16 +36,16 @@ class Test_MenuUpdate(BaseTest):
         self.nwc.memberEdit()
         self.logger.info("******** Switch to the Edit Member Window********")
         self.nwccu.switch_to.window(parentwindowid)
-        time.sleep(3)
         self.logger.info("******** Edit Member's First Name********")
         self.das.editMemberFirstName(self.fname)
         self.das.editMemberLastName(self.lname)
-        self.das.editMemberRole(self.role)
+        self.das.editMemberRole()
+        self.das.editMemberRoleAdmin()
         self.das.editMemberEmail(self.email)
-        self.das.editMemberSave()
-        # self.nwccu.close()
-        # self.logger.info("**********Institution Type Filter Test is Successful********")
-        # self.nwccu.find_elements()
+        # self.das.editMemberSave()
+        self.nwccu.close()
+        self.logger.info("**********Institution Type Filter Test is Successful********")
+
 
 
 

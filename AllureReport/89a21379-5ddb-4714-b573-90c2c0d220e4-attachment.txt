@@ -1,8 +1,0 @@
-[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
-[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
-[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
-[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\OluwasegunOjeyinka\.wdm\drivers\chromedriver\win64\143.0.7499.42\chromedriver-win32/chromedriver.exe] found in cache
-[32mINFO    [0m root:base_test.py:18 ****** Starting login ******
-[32mINFO    [0m root:base_test.py:25 ****** Login successful ******
-[32mINFO    [0m root:test_T12HelpTour.py:17 ******** Verifying Login Test ********
-[32mINFO    [0m root:test_T12HelpTour.py:18 ******** Define the LoginPage Driver ********
